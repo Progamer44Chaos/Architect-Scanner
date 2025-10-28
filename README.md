@@ -34,10 +34,6 @@ Architect Scanner is a modular Windows toolkit for scanning .exe files by archit
 
 - 🔗 **Desktop shortcut to launcher**
 
-- 🧼 **Automatic console clearing (`cls`) before each process**
-
-- ❌ **Console closes automatically when menu is exited or closed**
-
 ---
 
 ## 🚀 Installation
